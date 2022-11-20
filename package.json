@@ -6,7 +6,7 @@
     "android": "expo run:android",
     "test": "echo \"Testing application\" && exit 0",
     "build": "echo \"Building application\" && exit 0",
-    "start:prod": "echo \"Deploying\" ,
+    "start:prod": "echo \"Deploying application\" && exit 0",
     "ios": "expo run:ios",
     "web": "expo start --web",
     "eject": "expo eject"
