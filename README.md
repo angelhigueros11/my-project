@@ -1,7 +1,7 @@
 
 # Health Forms
 
-Aplicación desarrollada con React Native para poder agilizar el proceso de llenado de formularios y compartir la información medica del usuario.
+Aplicación desarrollada con React Native para poder agilizar el proceso de llenado de formularios y compartir la información medica del usuario
 
 
 
